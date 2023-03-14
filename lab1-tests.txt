@@ -1,0 +1,39 @@
+a
+Invalid inputCount
+-1
+Invalid inputCount
+0
+No numbers to compare
+1
+1
+No numbers to compare
+1
+1
+No numbers to compare
+1
+6
+No numbers to compare
+1
+-1
+No numbers to compare
+1
+2147483647
+No numbers to compare
+1
+-2147483648
+No numbers to compare
+1
+2147483648
+Invalid input
+1
+-2147483649
+Invalid input
+2
+6 2
+No pairs found
+3 
+6 6 6
+No pairs found
+4
+7 7 7
+No pairs found

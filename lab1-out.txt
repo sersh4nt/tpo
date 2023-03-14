@@ -1,0 +1,301 @@
+Input the count of numbers
+[TEST OUTPUT] Step: 2
+[TEST OUTPUT] Step: 4
+Invalid inputCount, exiting...
+[TEST OUTPUT] Step: 19
+Test [1]. Expected output: a
+Input the count of numbers
+[TEST OUTPUT] Step: 2
+[TEST OUTPUT] Step: 4
+Invalid inputCount, exiting...
+[TEST OUTPUT] Step: 19
+Test [2]. Expected output: Invalid inputCount
+Input the count of numbers
+[TEST OUTPUT] Step: 3
+[TEST OUTPUT] Step: 4
+Invalid inputCount, exiting...
+[TEST OUTPUT] Step: 19
+Test [3]. Expected output: 
+Input the count of numbers
+[TEST OUTPUT] Step: 2
+[TEST OUTPUT] Step: 4
+Invalid inputCount, exiting...
+[TEST OUTPUT] Step: 19
+Test [4]. Expected output: Invalid inputCount
+Input the count of numbers
+[TEST OUTPUT] Step: 3
+[TEST OUTPUT] Step: 5
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 12
+[TEST OUTPUT] Step: 13
+No numbers to compare
+[TEST OUTPUT] Step: 19
+Test [5]. Expected output: 
+Input the count of numbers
+[TEST OUTPUT] Step: 2
+[TEST OUTPUT] Step: 4
+Invalid inputCount, exiting...
+[TEST OUTPUT] Step: 19
+Test [6]. Expected output: No numbers to compare
+Input the count of numbers
+[TEST OUTPUT] Step: 3
+[TEST OUTPUT] Step: 5
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 10
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 12
+[TEST OUTPUT] Step: 13
+No numbers to compare
+[TEST OUTPUT] Step: 19
+Test [7]. Expected output: 
+Input the count of numbers
+[TEST OUTPUT] Step: 2
+[TEST OUTPUT] Step: 4
+Invalid inputCount, exiting...
+[TEST OUTPUT] Step: 19
+Test [8]. Expected output: No numbers to compare
+Input the count of numbers
+[TEST OUTPUT] Step: 3
+[TEST OUTPUT] Step: 5
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 10
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 12
+[TEST OUTPUT] Step: 13
+No numbers to compare
+[TEST OUTPUT] Step: 19
+Test [9]. Expected output: 
+Input the count of numbers
+[TEST OUTPUT] Step: 2
+[TEST OUTPUT] Step: 4
+Invalid inputCount, exiting...
+[TEST OUTPUT] Step: 19
+Test [10]. Expected output: No numbers to compare
+Input the count of numbers
+[TEST OUTPUT] Step: 3
+[TEST OUTPUT] Step: 5
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 10
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 12
+[TEST OUTPUT] Step: 13
+No numbers to compare
+[TEST OUTPUT] Step: 19
+Test [11]. Expected output: 
+Input the count of numbers
+[TEST OUTPUT] Step: 2
+[TEST OUTPUT] Step: 4
+Invalid inputCount, exiting...
+[TEST OUTPUT] Step: 19
+Test [12]. Expected output: No numbers to compare
+Input the count of numbers
+[TEST OUTPUT] Step: 3
+[TEST OUTPUT] Step: 5
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 10
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 12
+[TEST OUTPUT] Step: 13
+No numbers to compare
+[TEST OUTPUT] Step: 19
+Test [13]. Expected output: 
+Input the count of numbers
+[TEST OUTPUT] Step: 2
+[TEST OUTPUT] Step: 4
+Invalid inputCount, exiting...
+[TEST OUTPUT] Step: 19
+Test [14]. Expected output: No numbers to compare
+Input the count of numbers
+[TEST OUTPUT] Step: 3
+[TEST OUTPUT] Step: 5
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 10
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 12
+[TEST OUTPUT] Step: 13
+No numbers to compare
+[TEST OUTPUT] Step: 19
+Test [15]. Expected output: 
+Input the count of numbers
+[TEST OUTPUT] Step: 2
+[TEST OUTPUT] Step: 4
+Invalid inputCount, exiting...
+[TEST OUTPUT] Step: 19
+Test [16]. Expected output: No numbers to compare
+Input the count of numbers
+[TEST OUTPUT] Step: 3
+[TEST OUTPUT] Step: 5
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 10
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 12
+[TEST OUTPUT] Step: 13
+No numbers to compare
+[TEST OUTPUT] Step: 19
+Test [17]. Expected output: 
+Input the count of numbers
+[TEST OUTPUT] Step: 2
+[TEST OUTPUT] Step: 4
+Invalid inputCount, exiting...
+[TEST OUTPUT] Step: 19
+Test [18]. Expected output: No numbers to compare
+Input the count of numbers
+[TEST OUTPUT] Step: 3
+[TEST OUTPUT] Step: 5
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 9
+Invalid input!
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 12
+[TEST OUTPUT] Step: 13
+No numbers to compare
+[TEST OUTPUT] Step: 19
+Test [19]. Expected output: 
+Input the count of numbers
+[TEST OUTPUT] Step: 2
+[TEST OUTPUT] Step: 4
+Invalid inputCount, exiting...
+[TEST OUTPUT] Step: 19
+Test [20]. Expected output: Invalid input
+Input the count of numbers
+[TEST OUTPUT] Step: 3
+[TEST OUTPUT] Step: 5
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 9
+Invalid input!
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 12
+[TEST OUTPUT] Step: 13
+No numbers to compare
+[TEST OUTPUT] Step: 19
+Test [21]. Expected output: 
+Input the count of numbers
+[TEST OUTPUT] Step: 2
+[TEST OUTPUT] Step: 4
+Invalid inputCount, exiting...
+[TEST OUTPUT] Step: 19
+Test [22]. Expected output: Invalid input
+Input the count of numbers
+[TEST OUTPUT] Step: 3
+[TEST OUTPUT] Step: 5
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 10
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 10
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 12
+[TEST OUTPUT] Step: 13
+[TEST OUTPUT] Step: 14
+[TEST OUTPUT] Step: 15
+[TEST OUTPUT] Step: 18
+[TEST OUTPUT] Step: 14
+[TEST OUTPUT] Step: 19
+Test [23]. Expected output: 
+Input the count of numbers
+[TEST OUTPUT] Step: 2
+[TEST OUTPUT] Step: 4
+Invalid inputCount, exiting...
+[TEST OUTPUT] Step: 19
+Test [24]. Expected output: No pairs found
+Input the count of numbers
+[TEST OUTPUT] Step: 3
+[TEST OUTPUT] Step: 5
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 10
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 10
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 10
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 12
+[TEST OUTPUT] Step: 13
+[TEST OUTPUT] Step: 14
+[TEST OUTPUT] Step: 15
+[TEST OUTPUT] Step: 18
+[TEST OUTPUT] Step: 14
+[TEST OUTPUT] Step: 15
+[TEST OUTPUT] Step: 18
+[TEST OUTPUT] Step: 14
+[TEST OUTPUT] Step: 19
+Test [25]. Expected output: 
+Input the count of numbers
+[TEST OUTPUT] Step: 2
+[TEST OUTPUT] Step: 4
+Invalid inputCount, exiting...
+[TEST OUTPUT] Step: 19
+Test [26]. Expected output: No pairs found
+Input the count of numbers
+[TEST OUTPUT] Step: 3
+[TEST OUTPUT] Step: 5
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 10
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 10
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 10
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 7
+[TEST OUTPUT] Step: 8
+[TEST OUTPUT] Step: 9
+Invalid input!
+[TEST OUTPUT] Step: 11
+[TEST OUTPUT] Step: 6
+[TEST OUTPUT] Step: 12
+[TEST OUTPUT] Step: 13
+[TEST OUTPUT] Step: 14
+[TEST OUTPUT] Step: 15
+[TEST OUTPUT] Step: 18
+[TEST OUTPUT] Step: 14
+[TEST OUTPUT] Step: 15
+[TEST OUTPUT] Step: 18
+[TEST OUTPUT] Step: 14
+[TEST OUTPUT] Step: 19
+Test [27]. Expected output: No pairs found
