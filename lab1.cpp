@@ -1,97 +1,165 @@
 #include <iostream>
 #include <cstdint>
 #include <vector>
+#include <sstream>
+#include <string>
+#include <limits>
 
 using namespace std;
 
-bool PRINT_STEP(int step)
+vector<string> split(string base, char delimeter)
 {
-    cout << "[TEST OUTPUT] Step: " << step << endl;
-    return true;
+    vector<string> result;
+    stringstream ss(base);
+    string item;
+    while (getline(ss, item, delimeter))
+        result.push_back(item);
+    return result;
 }
 
-void solve()
+struct TestStats
 {
-    cout << "Input the count of numbers" << endl; // 1
-    int inputCount = 0;                           // 1
-    cin >> inputCount;                            // 1
+    int test, set;
+    string path, initialData, expectedOutput, output, result;
 
-    if (cin.fail() && PRINT_STEP(2)         // 2
-        || PRINT_STEP(3) && inputCount < 0) // 3
+    TestStats(string in, string out)
     {
-        PRINT_STEP(4);                                    // 4
-        cin.clear();                                      // 4
-        // cin.ignore();                                     // 4
-        cout << "Invalid inputCount, exiting..." << endl; // 4
-        return;
+        auto input = split(in, ',');
+        auto output = split(out, ',');
+
+        path = "";
+        result = "";
+        test = stoi(input[1]), set = stoi(input[2]);
+        expectedOutput = output[0];
+        initialData = input[0];
     }
 
-    PRINT_STEP(5);       // 5
-    int i = 0, number;   // 5
-    vector<int> numbers; // 5
-
-    while (PRINT_STEP(6) && i < inputCount) // 6
+    bool addGraphNode(int node)
     {
-        PRINT_STEP(7); // 7
-        // cout << "Input integer from " << numeric_limits<int>::min() << " to " // 7
-        //      << numeric_limits<int>::max()                                    // 7
-        //      << ":" << endl;                                                  // 7
-        cin >> number;                   // 7
-        if (PRINT_STEP(8) && cin.fail()) // 8
+        return addGraphNode(to_string(node));
+    }
+
+    bool addGraphNode(string node)
+    {
+        if (path == "")
         {
-            PRINT_STEP(9);                         // 9
-            cin.clear();                           // 9
-            // cin.ignore();                          // 9
-            cout << "Invalid input!" << std::endl; // 9
+            path += node;
         }
         else
         {
-            PRINT_STEP(10);
-            numbers.push_back(number); // 10
+            path += "-" + node;
         }
-        PRINT_STEP(11); // 11
-        i++;            // 11
+        return true;
     }
 
-    PRINT_STEP(12);                    // 12
-    i = 0;                             // 12
-    int numbersCount = numbers.size(); // 12
-
-    if (PRINT_STEP(13) && numbersCount < 2)
+    void addResult(string s)
     {
-        cout << "No numbers to compare" << endl; // 13
-        return;                                  // 13
-    }
-
-    while (PRINT_STEP(14) && i < numbersCount - 1)
-    {
-        if (PRINT_STEP(15) && numbers[i] <= 5) // 15
+        if (!result.empty())
         {
-            if (PRINT_STEP(16) && numbers[i + 1] > 0) // 16
+            result += ';';
+        }
+
+        result += s;
+    }
+};
+
+void solve(TestStats &test)
+{
+    stringstream ss(test.initialData);
+
+    test.addGraphNode(1);
+    int number;
+    vector<int> numbers;
+
+    while (test.addGraphNode(2))
+    {
+        if (ss.rdbuf()->in_avail() == 0 || ss.eof())
+        { // checks wether string is empty
+            break;
+        }
+        test.addGraphNode(3);
+        ss >> number;
+        test.addGraphNode(4);
+        if (ss.fail())
+        {
+            test.addGraphNode(5);
+            ss.clear();
+            ss.ignore(1, ' ');
+            test.addResult("Invalid number");
+        }
+        else
+        {
+            test.addGraphNode(6);
+            numbers.push_back(number);
+        }
+    }
+
+    test.addGraphNode(7);
+    int numbersCount = numbers.size(), i = 0;
+
+    test.addGraphNode(8);
+    if (numbersCount < 2)
+    {
+        test.addGraphNode(9);
+        test.addResult("No numbers to compare");
+        test.addGraphNode(15);
+        return;
+    }
+
+    while (true)
+    {
+        test.addGraphNode(10);
+        if (i >= numbersCount - 1)
+        {
+            break;
+        }
+
+        test.addGraphNode(11);
+        if (numbers[i] <= 5)
+        {
+            test.addGraphNode(12);
+            if (numbers[i + 1] > 0)
             {
-                PRINT_STEP(17);                                                                                                        // 16
-                cout << "Found pair: a_" << i << "=" << numbers[i] << " <= 5, a_" << i + 1 << "=" << numbers[i + 1] << " > 0" << endl; // 16
+                test.addGraphNode(13);
+                auto res = "(" + to_string(numbers[i]) + "; " + to_string(numbers[i + 1]) + ")";
+                test.addResult(res);
             }
         }
-        PRINT_STEP(18); // 18
-        i++;            // 18
-    }
+        test.addGraphNode(14);
+        i++;
+    };
+
+    test.addGraphNode(15);
+    return;
+}
+
+void printResult(TestStats test)
+{
+    cout << "1. Test #" << test.test << endl;
+    cout << "2. Set #" << test.set << endl;
+    cout << "3. Path: " << test.path << endl;
+    cout << "4. Initial data: " << test.initialData << endl;
+    cout << "5. Expected output: " << test.expectedOutput << endl;
+    cout << "6. Test output: " << test.result << endl;
+    cout << "7. Result: " << (test.expectedOutput == test.result ? "PASSED" : "NOT PASSED") << endl;
+    cout << "---------------------------------------------------------------" << endl;
 }
 
 int main()
 {
     freopen("lab1-tests.txt", "r", stdin);
     freopen("lab1-out.txt", "w", stdout);
-    int testCount = 1;
-    string exp_out;
-    while (!cin.eof())
+
+    string t, s;
+    while (getline(cin, t))
     {
-        solve();
-        PRINT_STEP(19); // 19
-        getline(cin, exp_out);
-        cout << "Test [" << testCount << "]"
-             << ". Expected output: " << exp_out << endl;
-        ++testCount;
+        if (t.empty())
+            break;
+        getline(cin, s);
+        auto test = TestStats(t, s);
+        solve(test);
+        printResult(test);
     }
+
     return 0;
 }

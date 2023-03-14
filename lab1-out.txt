@@ -1,301 +1,224 @@
-Input the count of numbers
-[TEST OUTPUT] Step: 2
-[TEST OUTPUT] Step: 4
-Invalid inputCount, exiting...
-[TEST OUTPUT] Step: 19
-Test [1]. Expected output: a
-Input the count of numbers
-[TEST OUTPUT] Step: 2
-[TEST OUTPUT] Step: 4
-Invalid inputCount, exiting...
-[TEST OUTPUT] Step: 19
-Test [2]. Expected output: Invalid inputCount
-Input the count of numbers
-[TEST OUTPUT] Step: 3
-[TEST OUTPUT] Step: 4
-Invalid inputCount, exiting...
-[TEST OUTPUT] Step: 19
-Test [3]. Expected output: 
-Input the count of numbers
-[TEST OUTPUT] Step: 2
-[TEST OUTPUT] Step: 4
-Invalid inputCount, exiting...
-[TEST OUTPUT] Step: 19
-Test [4]. Expected output: Invalid inputCount
-Input the count of numbers
-[TEST OUTPUT] Step: 3
-[TEST OUTPUT] Step: 5
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 12
-[TEST OUTPUT] Step: 13
-No numbers to compare
-[TEST OUTPUT] Step: 19
-Test [5]. Expected output: 
-Input the count of numbers
-[TEST OUTPUT] Step: 2
-[TEST OUTPUT] Step: 4
-Invalid inputCount, exiting...
-[TEST OUTPUT] Step: 19
-Test [6]. Expected output: No numbers to compare
-Input the count of numbers
-[TEST OUTPUT] Step: 3
-[TEST OUTPUT] Step: 5
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 10
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 12
-[TEST OUTPUT] Step: 13
-No numbers to compare
-[TEST OUTPUT] Step: 19
-Test [7]. Expected output: 
-Input the count of numbers
-[TEST OUTPUT] Step: 2
-[TEST OUTPUT] Step: 4
-Invalid inputCount, exiting...
-[TEST OUTPUT] Step: 19
-Test [8]. Expected output: No numbers to compare
-Input the count of numbers
-[TEST OUTPUT] Step: 3
-[TEST OUTPUT] Step: 5
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 10
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 12
-[TEST OUTPUT] Step: 13
-No numbers to compare
-[TEST OUTPUT] Step: 19
-Test [9]. Expected output: 
-Input the count of numbers
-[TEST OUTPUT] Step: 2
-[TEST OUTPUT] Step: 4
-Invalid inputCount, exiting...
-[TEST OUTPUT] Step: 19
-Test [10]. Expected output: No numbers to compare
-Input the count of numbers
-[TEST OUTPUT] Step: 3
-[TEST OUTPUT] Step: 5
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 10
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 12
-[TEST OUTPUT] Step: 13
-No numbers to compare
-[TEST OUTPUT] Step: 19
-Test [11]. Expected output: 
-Input the count of numbers
-[TEST OUTPUT] Step: 2
-[TEST OUTPUT] Step: 4
-Invalid inputCount, exiting...
-[TEST OUTPUT] Step: 19
-Test [12]. Expected output: No numbers to compare
-Input the count of numbers
-[TEST OUTPUT] Step: 3
-[TEST OUTPUT] Step: 5
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 10
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 12
-[TEST OUTPUT] Step: 13
-No numbers to compare
-[TEST OUTPUT] Step: 19
-Test [13]. Expected output: 
-Input the count of numbers
-[TEST OUTPUT] Step: 2
-[TEST OUTPUT] Step: 4
-Invalid inputCount, exiting...
-[TEST OUTPUT] Step: 19
-Test [14]. Expected output: No numbers to compare
-Input the count of numbers
-[TEST OUTPUT] Step: 3
-[TEST OUTPUT] Step: 5
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 10
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 12
-[TEST OUTPUT] Step: 13
-No numbers to compare
-[TEST OUTPUT] Step: 19
-Test [15]. Expected output: 
-Input the count of numbers
-[TEST OUTPUT] Step: 2
-[TEST OUTPUT] Step: 4
-Invalid inputCount, exiting...
-[TEST OUTPUT] Step: 19
-Test [16]. Expected output: No numbers to compare
-Input the count of numbers
-[TEST OUTPUT] Step: 3
-[TEST OUTPUT] Step: 5
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 10
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 12
-[TEST OUTPUT] Step: 13
-No numbers to compare
-[TEST OUTPUT] Step: 19
-Test [17]. Expected output: 
-Input the count of numbers
-[TEST OUTPUT] Step: 2
-[TEST OUTPUT] Step: 4
-Invalid inputCount, exiting...
-[TEST OUTPUT] Step: 19
-Test [18]. Expected output: No numbers to compare
-Input the count of numbers
-[TEST OUTPUT] Step: 3
-[TEST OUTPUT] Step: 5
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 9
-Invalid input!
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 12
-[TEST OUTPUT] Step: 13
-No numbers to compare
-[TEST OUTPUT] Step: 19
-Test [19]. Expected output: 
-Input the count of numbers
-[TEST OUTPUT] Step: 2
-[TEST OUTPUT] Step: 4
-Invalid inputCount, exiting...
-[TEST OUTPUT] Step: 19
-Test [20]. Expected output: Invalid input
-Input the count of numbers
-[TEST OUTPUT] Step: 3
-[TEST OUTPUT] Step: 5
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 9
-Invalid input!
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 12
-[TEST OUTPUT] Step: 13
-No numbers to compare
-[TEST OUTPUT] Step: 19
-Test [21]. Expected output: 
-Input the count of numbers
-[TEST OUTPUT] Step: 2
-[TEST OUTPUT] Step: 4
-Invalid inputCount, exiting...
-[TEST OUTPUT] Step: 19
-Test [22]. Expected output: Invalid input
-Input the count of numbers
-[TEST OUTPUT] Step: 3
-[TEST OUTPUT] Step: 5
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 10
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 10
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 12
-[TEST OUTPUT] Step: 13
-[TEST OUTPUT] Step: 14
-[TEST OUTPUT] Step: 15
-[TEST OUTPUT] Step: 18
-[TEST OUTPUT] Step: 14
-[TEST OUTPUT] Step: 19
-Test [23]. Expected output: 
-Input the count of numbers
-[TEST OUTPUT] Step: 2
-[TEST OUTPUT] Step: 4
-Invalid inputCount, exiting...
-[TEST OUTPUT] Step: 19
-Test [24]. Expected output: No pairs found
-Input the count of numbers
-[TEST OUTPUT] Step: 3
-[TEST OUTPUT] Step: 5
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 10
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 10
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 10
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 12
-[TEST OUTPUT] Step: 13
-[TEST OUTPUT] Step: 14
-[TEST OUTPUT] Step: 15
-[TEST OUTPUT] Step: 18
-[TEST OUTPUT] Step: 14
-[TEST OUTPUT] Step: 15
-[TEST OUTPUT] Step: 18
-[TEST OUTPUT] Step: 14
-[TEST OUTPUT] Step: 19
-Test [25]. Expected output: 
-Input the count of numbers
-[TEST OUTPUT] Step: 2
-[TEST OUTPUT] Step: 4
-Invalid inputCount, exiting...
-[TEST OUTPUT] Step: 19
-Test [26]. Expected output: No pairs found
-Input the count of numbers
-[TEST OUTPUT] Step: 3
-[TEST OUTPUT] Step: 5
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 10
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 10
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 10
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 7
-[TEST OUTPUT] Step: 8
-[TEST OUTPUT] Step: 9
-Invalid input!
-[TEST OUTPUT] Step: 11
-[TEST OUTPUT] Step: 6
-[TEST OUTPUT] Step: 12
-[TEST OUTPUT] Step: 13
-[TEST OUTPUT] Step: 14
-[TEST OUTPUT] Step: 15
-[TEST OUTPUT] Step: 18
-[TEST OUTPUT] Step: 14
-[TEST OUTPUT] Step: 15
-[TEST OUTPUT] Step: 18
-[TEST OUTPUT] Step: 14
-[TEST OUTPUT] Step: 19
-Test [27]. Expected output: No pairs found
+1. Test #1
+2. Set #1
+3. Path: 1-2-7-8-9-15
+4. Initial data: 
+5. Expected output: No numbers to compare
+6. Test output: No numbers to compare
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #2
+2. Set #1
+3. Path: 1-2-3-4-5-2-7-8-9-15
+4. Initial data: a
+5. Expected output: Invalid number;No numbers to compare
+6. Test output: Invalid number;No numbers to compare
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #3
+2. Set #1
+3. Path: 1-2-3-4-6-2-7-8-9-15
+4. Initial data: 1
+5. Expected output: No numbers to compare
+6. Test output: No numbers to compare
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #3
+2. Set #2
+3. Path: 1-2-3-4-6-2-7-8-9-15
+4. Initial data: 2147483647
+5. Expected output: No numbers to compare
+6. Test output: No numbers to compare
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #3
+2. Set #3
+3. Path: 1-2-3-4-6-2-7-8-9-15
+4. Initial data: -2147483648
+5. Expected output: No numbers to compare
+6. Test output: No numbers to compare
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #4
+2. Set #1
+3. Path: 1-2-3-4-5-2-7-8-9-15
+4. Initial data: a
+5. Expected output: Invalid number;No numbers to compare
+6. Test output: Invalid number;No numbers to compare
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #4
+2. Set #2
+3. Path: 1-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-7-8-9-15
+4. Initial data: a a a a a a a a a a
+5. Expected output: Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;No numbers to compare
+6. Test output: Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;No numbers to compare
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #6
+2. Set #1
+3. Path: 1-2-3-4-6-2-3-4-6-2-7-8-10-11-14-10-15
+4. Initial data: 6 6
+5. Expected output: 
+6. Test output: 
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #6
+2. Set #2
+3. Path: 1-2-3-4-5-2-3-4-6-2-3-4-6-2-7-8-10-11-14-10-15
+4. Initial data: a 6 6
+5. Expected output: Invalid number
+6. Test output: Invalid number
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #6
+2. Set #3
+3. Path: 1-2-3-4-6-2-3-4-6-2-7-8-10-11-14-10-15
+4. Initial data: 6 2147483647
+5. Expected output: 
+6. Test output: 
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #6
+2. Set #4
+3. Path: 1-2-3-4-6-2-3-4-6-2-3-4-5-2-7-8-10-11-14-10-15
+4. Initial data: 6 2147483647 a
+5. Expected output: Invalid number
+6. Test output: Invalid number
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #6
+2. Set #5
+3. Path: 1-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-7-8-10-11-14-10-11-14-10-11-14-10-11-14-10-11-14-10-11-14-10-11-14-10-11-14-10-15
+4. Initial data: 6 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647
+5. Expected output: 
+6. Test output: 
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #6
+2. Set #6
+3. Path: 1-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-7-8-10-11-14-10-11-14-10-11-14-10-11-14-10-11-14-10-11-14-10-11-14-10-11-14-10-15
+4. Initial data: 6 6 6 6 6 6 6 6 6
+5. Expected output: 
+6. Test output: 
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #6
+2. Set #7
+3. Path: 1-2-3-4-6-2-3-4-6-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-5-2-3-4-6-2-7-8-10-11-14-10-11-14-10-15
+4. Initial data: 6 6 a a a a a a a a a a a a a a 6
+5. Expected output: Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number
+6. Test output: Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number;Invalid number
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #6
+2. Set #1
+3. Path: 1-2-3-4-6-2-3-4-6-2-7-8-10-11-12-14-10-15
+4. Initial data: 5 0
+5. Expected output: 
+6. Test output: 
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #6
+2. Set #2
+3. Path: 1-2-3-4-6-2-3-4-6-2-7-8-10-11-12-14-10-15
+4. Initial data: -2147483648 -2147483648
+5. Expected output: 
+6. Test output: 
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #6
+2. Set #3
+3. Path: 1-2-3-4-6-2-3-4-5-2-3-4-6-2-7-8-10-11-12-14-10-15
+4. Initial data: -2147483648 a 0
+5. Expected output: Invalid number
+6. Test output: Invalid number
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #7
+2. Set #1
+3. Path: 1-2-3-4-6-2-3-4-6-2-7-8-10-11-12-14-10-15
+4. Initial data: 4 0
+5. Expected output: 
+6. Test output: 
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #7
+2. Set #2
+3. Path: 1-2-3-4-6-2-3-4-6-2-7-8-10-11-12-14-10-15
+4. Initial data: 4 -1
+5. Expected output: 
+6. Test output: 
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #7
+2. Set #3
+3. Path: 1-2-3-4-6-2-3-4-6-2-7-8-10-11-12-14-10-15
+4. Initial data: 0 0
+5. Expected output: 
+6. Test output: 
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #7
+2. Set #4
+3. Path: 1-2-3-4-6-2-3-4-6-2-7-8-10-11-12-14-10-15
+4. Initial data: 1 -2147483648
+5. Expected output: 
+6. Test output: 
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #7
+2. Set #5
+3. Path: 1-2-3-4-6-2-3-4-6-2-7-8-10-11-12-14-10-15
+4. Initial data: -2147483648 -2147483648
+5. Expected output: 
+6. Test output: 
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #7
+2. Set #6
+3. Path: 1-2-3-4-6-2-3-4-6-2-3-4-5-2-7-8-10-11-12-14-10-15
+4. Initial data: -2147483648 0 a
+5. Expected output: Invalid number
+6. Test output: Invalid number
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #8
+2. Set #1
+3. Path: 1-2-3-4-6-2-3-4-6-2-7-8-10-11-12-13-14-10-15
+4. Initial data: 5 1
+5. Expected output: (5; 1)
+6. Test output: (5; 1)
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #8
+2. Set #2
+3. Path: 1-2-3-4-6-2-3-4-6-2-3-4-5-2-7-8-10-11-12-13-14-10-15
+4. Initial data: 5 1 a
+5. Expected output: Invalid number;(5; 1)
+6. Test output: Invalid number;(5; 1)
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #8
+2. Set #3
+3. Path: 1-2-3-4-6-2-3-4-6-2-3-4-5-2-7-8-10-11-12-13-14-10-15
+4. Initial data: -2147483648 2147483647 a
+5. Expected output: Invalid number;(-2147483648; 2147483647)
+6. Test output: Invalid number;(-2147483648; 2147483647)
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #8
+2. Set #4
+3. Path: 1-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-7-8-10-11-12-13-14-10-11-12-13-14-10-11-12-13-14-10-11-12-13-14-10-11-12-13-14-10-11-12-13-14-10-11-12-13-14-10-11-12-13-14-10-15
+4. Initial data: 4 4 4 4 4 4 4 4 4
+5. Expected output: (4; 4);(4; 4);(4; 4);(4; 4);(4; 4);(4; 4);(4; 4);(4; 4)
+6. Test output: (4; 4);(4; 4);(4; 4);(4; 4);(4; 4);(4; 4);(4; 4);(4; 4)
+7. Result: PASSED
+---------------------------------------------------------------
+1. Test #8
+2. Set #5
+3. Path: 1-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-6-2-3-4-5-2-3-4-6-2-7-8-10-11-12-14-10-11-12-13-14-10-11-14-10-11-12-13-14-10-11-12-13-14-10-15
+4. Initial data: 4 0 6 -2147483648 1 a 2147483647
+5. Expected output: Invalid number;(0; 6);(-2147483648; 1);(1; 2147483647)
+6. Test output: Invalid number;(0; 6);(-2147483648; 1);(1; 2147483647)
+7. Result: PASSED
+---------------------------------------------------------------
